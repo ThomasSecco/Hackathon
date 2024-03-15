@@ -1,0 +1,79 @@
+# Ignore R related files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.RDataTmp
+.RDataTmp/
+.Rapp.history
+.Renviron
+.Rprofile
+.Rcheck/
+.Rcache/
+*.rdb
+*.rds
+*.rsave
+
+# Ignore Python related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.py~
+
+# Ignore Python virtual environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+env36/
+venv36/
+.env
+
+# Ignore pipenv
+Pipfile.lock
+
+# Ignore FastAPI generated files
+__pycache__/
+main.py
+
+# Ignore Node.js related files
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ignore React build files
+/build/
+/.pnp/
+.pnp.js
+.pnp.js_
+
+# Ignore any local configuration files
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore any editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore any logs or generated files
+*.log
+logs/
+*.swp
+*.swo
+
+# Ignore any database files
+*.sqlite
+*.sqlite3
+
