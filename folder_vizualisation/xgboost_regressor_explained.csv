@@ -1,0 +1,25 @@
+,Feature,Importance
+0,Direction,8.917732e-05
+1,Average stage duration,0.38976276
+2,Deviation of stage duration,0.0
+3,Entry load,0.049760006
+4,Exit load,0.08970283
+5,Entry demand,0.00037887815
+6,Exit demand,0.0068738684
+7,Distance,2.5597615e-06
+8,Container quantity,0.037826933
+9,Stage,0.20050919
+10,Entry working day,0.0083401585
+11,Exit working day,0.0350162
+12,Entry precipitation,0.04369106
+13,Entry rain,0.0
+14,Entry snowfall,7.167282e-09
+15,Entry wind speedx,0.0063800514
+16,Entry wind gusts,8.091293e-06
+17,Entry wind direction,0.07248523
+18,Exit precipitation,0.0046073007
+19,Exit rain,0.0
+20,Exit snowfall,0.0
+21,Exit wind speed,0.04477902
+22,Exit wind gusts,0.0004840997
+23,Exit wind direction,0.009302612
