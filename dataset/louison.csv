@@ -1,4 +1,4 @@
-Entry,Exit,A,AB,B,BC,C,CD,D,DE,E,Days,Inverted,Working_Day_Entry,Working_Day_Exit,Entry_precipitation_sum,Entry_rain_sum,Entry_snowfall_sum,Entry_wind_speed_10m_max,Entry_wind_gusts_10m_max,Entry_wind_direction_10m_dominant,Exit_precipitation_sum,Exit_rain_sum,Exit_snowfall_sum,Exit_wind_speed_10m_max,Exit_wind_gusts_10m_max,Exit_wind_direction_10m_dominant
+Entry,Exit,A,AB,B,BC,C,CD,D,DE,E,Days,Inverted,Entry_Working_Day,Exit_Working_Day,Entry_precipitation_sum,Entry_rain_sum,Entry_snowfall_sum,Entry_wind_speed_10m_max,Entry_wind_gusts_10m_max,Entry_wind_direction_10m_dominant,Exit_precipitation_sum,Exit_rain_sum,Exit_snowfall_sum,Exit_wind_speed_10m_max,Exit_wind_gusts_10m_max,Exit_wind_direction_10m_dominant
 2020-12-09,2020-12-24,2,0,0,0,0,0,0,0,0,15,0,1,1,12.000002,12.000002,0.0,26.980793,63.0,247.3075,0.0,0.0,0.0,21.897945,42.12,343.37125
 2020-12-24,2020-12-24,0,2,0,0,0,0,0,0,0,0,0,1,1,0.0,0.0,0.0,21.897945,42.12,343.37125,0.0,0.0,0.0,21.897945,42.12,343.37125
 2020-12-24,2020-12-29,0,0,2,0,0,0,0,0,0,5,0,1,1,0.0,0.0,0.0,21.897945,42.12,343.37125,3.7,3.7,0.0,19.174856,36.36,242.8069
